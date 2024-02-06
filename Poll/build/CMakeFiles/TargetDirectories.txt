@@ -1,0 +1,8 @@
+/mnt/hgfs/VMshared/code/c++/Poll/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/client/CMakeFiles/client.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/client/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/client/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/server/CMakeFiles/server.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/server/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Poll/build/server/CMakeFiles/rebuild_cache.dir
